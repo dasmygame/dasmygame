@@ -1,4 +1,4 @@
-# What's crackin ![](https://media.giphy.com/media/3jeyyJEZDIStumrtwf/giphy.gif = 200x200)
+# What's crackin <img src="https://media.giphy.com/media/3jeyyJEZDIStumrtwf/giphy.gif" width="200" height="200">
 > - [x] Developer for 5yrs <br>
 >> - [x] Portfolio site: www.RahulDas.club <br>
 >>> - [x] Need help w/ anything web? Free Consultations: web@PerdueVision.com <br>
